@@ -1,3 +1,7 @@
-"out/" 
-".idea/" 
-"*.iml" 
+# Thư mục chứa file class biên dịch
+out/
+bin/
+
+# Cấu hình của IntelliJ
+.idea/
+*.iml
